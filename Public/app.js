@@ -1,5 +1,7 @@
 // Let's define some shortcuts to increase
 // readability of the code
+var ODataModel;
+
 var ODataModel = sap.ui.model.odata.ODataModel,
     TextView = sap.ui.commons.TextView,
     Label = sap.ui.commons.Label,
@@ -11,7 +13,7 @@ var ODataModel = sap.ui.model.odata.ODataModel,
     Begin = sap.ui.commons.layout.HAlign.Begin, 
     SelectionMode = sap.ui.table.SelectionMode;
 
-var var1 = sap.ui;
+
     
 
 // Specify the SAP Gateway SalesOrder service as an OData model.
