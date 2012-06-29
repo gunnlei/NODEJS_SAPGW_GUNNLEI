@@ -8,7 +8,7 @@ var ODataModel = sap.ui.model.odata.ODataModel,
     Button = sap.ui.commons.Button,
     Column = sap.ui.table.Column,
     Right = sap.ui.commons.layout.HAlign.Right,
-    Begin = sap.ui.commons.layout.HAlign.Begin,
+    Begin = sap.ui.commons.layout.HAlign.Begin, 
     SelectionMode = sap.ui.table.SelectionMode;
     
 
