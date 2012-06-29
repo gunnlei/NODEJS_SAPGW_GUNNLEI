@@ -10,6 +10,8 @@ var ODataModel = sap.ui.model.odata.ODataModel,
     Right = sap.ui.commons.layout.HAlign.Right,
     Begin = sap.ui.commons.layout.HAlign.Begin, 
     SelectionMode = sap.ui.table.SelectionMode;
+
+var var1 = sap.ui;
     
 
 // Specify the SAP Gateway SalesOrder service as an OData model.
